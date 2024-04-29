@@ -767,7 +767,7 @@ export interface HeroSliceDefaultPrimary {
    * First Name field in *Hero → Primary*
    *
    * - **Field Type**: Text
-   * - **Placeholder**: *None*
+   * - **Placeholder**: Timo
    * - **API ID Path**: hero.primary.first_name
    * - **Documentation**: https://prismic.io/docs/field#key-text
    */
@@ -777,7 +777,7 @@ export interface HeroSliceDefaultPrimary {
    * Last Name field in *Hero → Primary*
    *
    * - **Field Type**: Text
-   * - **Placeholder**: *None*
+   * - **Placeholder**: Mahabier
    * - **API ID Path**: hero.primary.last_name
    * - **Documentation**: https://prismic.io/docs/field#key-text
    */
@@ -787,7 +787,7 @@ export interface HeroSliceDefaultPrimary {
    * Tag Line field in *Hero → Primary*
    *
    * - **Field Type**: Text
-   * - **Placeholder**: *None*
+   * - **Placeholder**: UX-Designer
    * - **API ID Path**: hero.primary.tag_line
    * - **Documentation**: https://prismic.io/docs/field#key-text
    */
