@@ -16,21 +16,21 @@
           "type": "Text",
           "config": {
             "label": "First Name",
-            "placeholder": "Timo"
+            "placeholder": ""
           }
         },
         "last_name": {
           "type": "Text",
           "config": {
             "label": "Last Name",
-            "placeholder": "Mahabier"
+            "placeholder": ""
           }
         },
         "tag_line": {
           "type": "Text",
           "config": {
             "label": "Tag Line",
-            "placeholder": "UX-Designer"
+            "placeholder": ""
           }
         }
       },
